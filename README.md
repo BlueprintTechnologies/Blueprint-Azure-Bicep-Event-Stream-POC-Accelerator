@@ -18,3 +18,6 @@ This POC leverages Azure Synapse for processing schema validation and data quali
 
 ## What Does This Accelerator Do?
 The included Bicep file and parameters file event provisions an event hub, event hub namespace and Synapse spark pool for every new feed.
+
+## What's Next?
+We will be adding an Azure Pipeline deployment script and parameters to illustrate how this Bicep template can be integrated into a CI/CD pipeline.
